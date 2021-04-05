@@ -2,7 +2,7 @@
   display: block;
   margin: 0 auto;
   margin-top: 20px;
-  background-image: url(https://pbs.twimg.com/media/EJ0QWkUWkAQv0-f.jpg);
+  background-image: linear-gradient(#63836f, rgb(194, 226, 200));
   border-radius: 10px;
   max-width: 800px;
   min-width: 800px;
